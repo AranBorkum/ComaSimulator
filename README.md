@@ -2,5 +2,5 @@
 Installation:
 ```bash
 cmake .
-$ make
+make
 ```
