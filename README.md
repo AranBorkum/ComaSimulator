@@ -1,1 +1,4 @@
 # ComaSimulator
+Installation:
+$ cmake .
+$ make
