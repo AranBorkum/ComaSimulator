@@ -25,7 +25,7 @@ int main() {
   }
   
   std::cout << "You can't even. You die after " << i << " attempts." << std::endl;
-  system("gio open youDied.jpg");
+  system("gio open images/youDied.jpg");
   
   return 0;
   
