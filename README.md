@@ -1,5 +1,3 @@
-<p align="center"><img width=25% src="https://github.com/AranBorkum/ComaSimilator/blob/master/images/bed.jpg"></p>
-
 # ComaSimulator
 You've heard of FlightSimulator, TrainSimulator and even GoatSimulator.
 But have you ever found yourself longing to be in a coma?
