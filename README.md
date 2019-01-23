@@ -1,4 +1,4 @@
-<p align="center"><img width=25% src="https://github.com/AranBorkum/ComaSimulator/blob/master/images/bed.jpg"></p>
+<p align="center"><img width=75% src="https://github.com/AranBorkum/ComaSimulator/blob/master/images/bed.jpg"></p>
 
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 ![issues](https://img.shields.io/badge/issues-in_coma-red.svg)
