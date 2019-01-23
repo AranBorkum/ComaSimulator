@@ -9,5 +9,6 @@ set (ComaSimulator_VERSION_MINOR 1)
 file(MAKE_DIRECTORY bin)
 
 # Add executable
-add_executable(bin/ComaSimulator Coma.cxx)
+add_executable(bin/ComaSimulator src/Coma.cxx)
 
+add_executable(bin/ComaSimulatorLite src/ComaLite.cxx)
