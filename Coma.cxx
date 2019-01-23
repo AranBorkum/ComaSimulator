@@ -23,9 +23,13 @@ int main() {
     std::cout << "I'm sorry. You can't " << input << "." << std::endl;
     i++;
   }
-  
-  std::cout << "You can't even. You die after " << i << " attempts." << std::endl;
-  system("gio open images/youDied.jpg");
+
+  if (d == 7) {
+    system("gio open images/lucky7.png");
+  } else {
+    std::cout << "You can't even. You die after " << i << " attempts." << std::endl;
+    system("gio open images/youDied.jpg");
+  }
   
   return 0;
   
