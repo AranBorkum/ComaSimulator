@@ -3,9 +3,16 @@
 class Patient {
   
 private:
-  double fHealth; 
+  double fHealth;
   double fLife;
-  double fWillToLive;
+  double fWillToLive;				
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Health:     100 -> In "full" health, 0 -> Dead								//
+// Life:       metric of how alive your are perceived to be by your family. I see this working towards		//
+// 	       stats boosts. Maybe I'm shooting too high							//
+// WillToLive: Measure of how depressed the character is. This could contribute to stats boosts, maybe?		//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
   std::string fGender;
   
